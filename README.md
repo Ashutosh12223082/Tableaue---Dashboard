@@ -27,7 +27,7 @@ CAFV Eligibility:
 Vehicles categorized by Clean Alternative Fuel Vehicle (CAFV) eligibility status.
 
 📁 Files Included
-Tableau dashboard (image above).
+Tableau dashboard (https://github.com/Ashutosh12223082/Tableaue---Dashboard/blob/main/images/dashboard.png).
 
 📌 Tools & Technologies
 Tableau: For data visualization and dashboard design.
